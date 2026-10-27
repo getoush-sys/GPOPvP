@@ -1,0 +1,17 @@
+{
+  "botName": "GPO PvP",
+  "elo": {
+    "start": 800,
+    "k": 32,
+    "scale": 400,
+    "maxWinGain": 20,
+    "dodgeMin": 1,
+    "dodgeFactor": 0.5
+  },
+  "colors": {
+    "main": "#5865F2",
+    "success": "#57F287",
+    "danger": "#ED4245",
+    "warning": "#FEE75C"
+  }
+}
